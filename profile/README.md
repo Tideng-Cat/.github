@@ -1,5 +1,7 @@
 ## 这里是提灯喵汉化组喵！
 
+招募翻译、校对、嵌字、时轴、以及程序喵～
+测试群：823681792
 <!--
 
 **Here are some ideas to get you started:**
